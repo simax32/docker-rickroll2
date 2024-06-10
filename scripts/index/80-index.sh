@@ -47,6 +47,20 @@ tee /usr/share/nginx/html/index.html << EOF >/dev/null
          
          window.onload = onload();
        </script>
+<footer class="footer-1 footer reveal-side-navigation">
+				<div class="footer-bottom center">
+					<div class="row">
+						<div class="column width-12">
+							<div class="footer-bottom-inner">
+								<p class="copyright no-margin-bottom">© 2021 <a rel="me" href="https://mastodon.social/@hyperjinx">RALPH CASPERS</a></p>
+							</div>
+						</div>
+					</div> 
+				</div>
+			</footer>
+   
+   
+   
    </body>
 </html>
 EOF
